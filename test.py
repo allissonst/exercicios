@@ -1,3 +1,3 @@
 print("Olá mundo")
 
-print("Ok")
+print("Ok");
