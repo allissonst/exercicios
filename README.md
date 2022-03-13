@@ -1,7 +1,3 @@
-<h1 align="center">:jigsaw: Desafio Academia Capgemini :jigsaw:</h1>
-
-Três programas do Desafio de Programação da Academia Capgemini.
-
 # 📋 Requisitos 
 
 ### ◽ Questão 01 
